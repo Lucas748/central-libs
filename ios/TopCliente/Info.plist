@@ -5,11 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>TechZone Internet</string>
+	<string>TWSpeed Telecom</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
-	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<string>br.com.topsapp.tctwspeed</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -49,13 +49,15 @@
 		<true/>
 	</dict>
 	<key>NSAppleMusicUsageDescription</key>
-	<string>Permitir acessar a galeria para enviar foto para nossos servidores.</string>
+	<string>Permitir acessar a galeria para enviar foto para nossos servidores para que possamos te identificar como cliente e analisar os procedimentos corretamente.</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
 	<string>Permitir o uso do Bluetooth para podermos fornecer um melhor serviço</string>
 	<key>NSCalendarsUsageDescription</key>
 	<string>Permitir o uso do Calendario para podermos fornecer um melhor serviço</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Permitir o envio das fotos para nossos servidores.</string>
+	<string>
+        Permitir o envio das fotos para os nossos servidores para que possamos te identificar como cliente e analisar os procedimentos corretamente.
+    </string>
 	<key>NSContactsUsageDescription</key>
 	<string>Permitir o uso dos Contatos para podermos fornecer um melhor serviço</string>
 	<key>NSFaceIDUsageDescription</key>
@@ -65,11 +67,11 @@
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Permitir usar a localização para podermos fornecer um melhor serviço</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Permitir o envio de videos para nossos servidores.</string>
+	<string>Permitir o envio de videos para nossos servidores para que possamos te identificar como cliente e analisar os procedimentos corretamente.</string>
 	<key>NSMotionUsageDescription</key>
 	<string>Permitir o uso do Sensor de movimento para podermos fornecer um melhor serviço</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Permitir o envio das fotos para nossos servidores.</string>
+	<string> Permitir o envio das fotos para os nossos servidores para que possamos te identificar como cliente e analisar os procedimentos corretamente.</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>Permitir o uso do Reconhecimento de fala para podermos fornecer um melhor serviço</string>
 	<key>UIAppFonts</key>

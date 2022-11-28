@@ -2,33 +2,39 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>1075302680233-5gdh4dqivfcnrjila53brmurrj8g0n0k.apps.googleusercontent.com</string>
+	<string>226806720021-qbiadg8v69vhsh9rkupnrjvdf8sjt5mc.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1075302680233-5gdh4dqivfcnrjila53brmurrj8g0n0k</string>
+	<string>com.googleusercontent.apps.226806720021-qbiadg8v69vhsh9rkupnrjvdf8sjt5mc</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCDkbex8sx42y7Pwa7nH_2ILLyBwxW2r-M</string>
+	<string>AIzaSyD-6vOwbEIXcaFGTBmAwkAcGyP6dqcJM-U</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1075302680233</string>
+	<string>226806720021</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>br.com.topsapp.tctechzone</string>
+	<string>br.com.topsapp.tctwspeed</string>
 	<key>PROJECT_ID</key>
-	<string>techzone-c013b</string>
+	<string>central-twspeed-telecom</string>
 	<key>STORAGE_BUCKET</key>
-	<string>techzone-c013b.appspot.com</string>
+	<string>central-twspeed-telecom.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<false></false>
+	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true></true>
+	<false/>
 	<key>IS_GCM_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1075302680233:ios:a15e2c2f41bd6277e48bb8</string>
+	<string>1:226806720021:ios:dd0a25d44ea6cd09</string>
+	<key>DATABASE_URL</key>
+	<string>https://central-twspeed-telecom.firebaseio.com</string>
 </dict>
 </plist>
